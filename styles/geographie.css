@@ -1,0 +1,107 @@
+body{
+	background-color: blue;
+}
+
+
+
+#divf{
+		background-color:white;
+		color:#000;
+width:806px;
+height:2800px;
+margin-left: auto;
+margin-right: auto;
+
+text-align: center;
+padding:5px;
+border:1px solid #6d7673;
+
+border-radius:2px;
+	}
+	
+header{ 
+	text-align: center;
+	background-color: blue;
+	color:white;
+}
+#h1{
+text-align: center;
+background-color:Lavender;
+color: black;
+border-radius:5px;
+font-weight: bold;
+}
+#div2{
+background-color: Olive;
+	float: left;
+	width: 320px;
+
+	color: white;
+   font-family: verdana;
+}
+a{
+	text-align: center;
+color: white;
+}
+.ims{
+	  border:solid 3px blue;
+    float: left;
+	 width: 300px;
+	 
+}
+img{
+	
+   border:solid 3px red;
+    float: left;
+	 width: 300px;
+	 
+	 margin-left:6px;
+}
+
+.image5{
+border:solid 3px red;
+    float: left;
+	 width: 200px;
+	 height:200px;
+	 margin-left:3px;
+}
+.presentation{
+	
+ border:solid 3px;
+ font-family: arial;
+ margin-left: 330px;
+}
+h3{
+	text-decoration: underline;
+	text-align: center;
+}
+video{
+       margin-left: auto;
+       margin-right: auto;
+        border :2px solid black;
+        width: 600px;
+	height: 500px;
+     
+        background-color: transparent;
+       
+        }
+
+  #baspage{
+	background-color: gray;
+	font-size: 0.5cm;
+	color: white;
+	border-radius:10px;
+
+}
+
+
+.arrows{
+margin: 8px;
+text-align: center;
+text-decoration: none;
+border-radius: 90%;
+height: 120px;
+width: 120px;
+border:2px solid #00aced;
+color: #00aced;
+}

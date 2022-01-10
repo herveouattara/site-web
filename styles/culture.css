@@ -1,0 +1,84 @@
+body { background-color: blue;}
+
+
+#divf{
+		background-color:white;
+		color:#000;
+width:806px;
+height:2800px;
+margin-left: auto;
+margin-right: auto;
+
+text-align: center;
+padding:5px;
+border:1px solid #6d7673;
+
+border-radius:2px;
+
+
+	}
+#h1{
+	text-align: center;
+	font-size: 1cm;
+}	
+#div2{
+	background-color: DarkGoldenRod;
+	float: left;
+	width: 320px;
+
+	color: white;
+   font-family: verdana;
+}
+.image1{
+   border:solid 3px black;
+    float: left;
+	 width: 300px;
+	 height: 200px;
+	 margin-left:6px;
+}
+.image2{
+    border:solid 3px black;
+}
+
+.somaire1{
+color: white;
+}
+.presentation{
+ border:solid 3px;
+ font-family: arial;
+ margin-left: 330px;
+}
+caption{
+	border-collapse: collapse;
+}
+
+.ims{
+	margin-left: 500px;
+	margin-right: 400px;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+
+}
+
+
+#baspage{
+	background-color: gray;
+	font-size: 0.5cm;
+	color: white;
+
+border-radius:10px;
+
+}
+
+
+.arrows{
+margin: 8px;
+text-align: center;
+text-decoration: none;
+border-radius: 90%;
+height: 120px;
+width: 120px;
+border:2px solid black;
+color: black;
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>Republique de Cote d'ivoire</title>
+	<meta name="Ouattara" content="Ismael SIMEON Herve" />
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="../styles/index.css" /> 
+
+	<script type="text/javascript" src="../javascript/index.js"></script>
+	
+</head>
+<body onload="video()">
+
+<div id="divf">
+
+<div class="div1">
+	<header>Bienvenue sur le site Officiel de la Cote d'ivoire <br><img src="../media/images/logogn.png" alt="" /><br/>
+  		 <span id="date_heure">
+		 
+       <script type="text/javascript">         
+      	 window.onload = date_heure('date_heure');
+		</script>
+		
+		</span>
+	</header>
+
+</div>
+    
+	<div id="div2">
+		<aside id="somaire">
+			<nav id="nav2">
+				<strong>Sommaire</strong><br><br>
+			
+
+
+
+	<form method="POST" action="geographie.html">
+<input type="submit"  name="Ok" value="G&eacute;ographie"/>
+</form>
+	
+
+
+			
+<form method="POST" action="culture.html">
+<input type="submit" name="Ok" value="Culture" />
+</form>
+
+
+	<form method="POST" action="formulaire.html">
+<input type="submit"  name="Ok" value="Politique et économie"/>
+</form>
+	
+	
+<form method="POST" action="population.html">
+<input type="submit" name="Ok" value="Population" />
+</form>
+
+
+			
+<form method="POST" action="tourisme.html">
+<input type="submit" name="Ok" value="Tourisme" />
+</form>
+	<br/><br/>
+		</nav>		
+					<script type="text/javascript">
+window.onload= defilImg
+current_img = 0;
+arrImg = ['../media/images/c1.jpg','../media/images/g2.jpg','../media/images/g3.jpg','../media/images/g5.jpg','../media/images/c4.jpg',]
+ 
+</script>
+
+
+<img id='toto' src='c1.jpg' alt="culture" />
+           <br/><br/>
+				<img src="../media/images/cultur3.jpg" alt="cultur" class="image2" />
+				<img src="../media/images/carte1.jpg" alt="cultur" class="image2" />
+		</aside>
+		</div>
+				<div id="presentation">
+					<section class="presentation">
+				<h2>
+					Pr&eacute;sentation :		
+			</h2>
+		<br/>
+
+		
+        La Côte d’Ivoire, en forme longue république de Côte d’Ivoire, est un pays membre de l’Union africaine. D’une superficie de 322 462 km2, elle est limitée au nord par le Mali et le Burkina Faso, à l’ouest par le Liberia et la Guinée, à l’est par le Ghana et au sud par l’océan Atlantique. La population est estimée à 26 594 750 habitants en 2017. La Côte d’Ivoire a pour capitale politique et administrative Yamoussoukro bien que la quasi-totalité des institutions se trouvent à Abidjan; Abidjan est son principal centre économique. Bien qu'elle ait pour langue officielle le français, plus de 60 autres dialectes sont parlés au quotidien. Elle a pour monnaie, le franc CFA. Le pays fait partie de la CEDEAO.
+
+D’abord protectorat français en 1843 et devenu colonie française le 10 mars 1893, le pays acquiert son indépendance le 7 août 1960, sous la houlette de Félix Houphouët-Boigny, premier président de la République. L’économie, essentiellement axée sur la production de café et de cacao, connaît au cours des deux premières décennies un essor exceptionnel, faisant de la Côte d’Ivoire un pays phare en Afrique de l'Ouest. En 1990, le pays traverse, outre la crise économique survenue à la fin des années 1970 et qui perdure, des périodes de turbulence sur les plans social et politique. Ces problèmes connaissent une exacerbation à la mort de Félix Houphouët-Boigny en 1993.
+
+L’adoption d’une nouvelle Constitution et l’organisation de l’élection présidentielle qui, en 2000, porte au pouvoir Laurent Gbagbo, n’apaisent pas les tensions sociales et politiques, qui conduisent au déclenchement d’une crise politico-militaire le 19 septembre 2002. Après plusieurs accords de paix, l'élection présidentielle ivoirienne de 2010 voit la victoire d'Alassane Ouattara sur Laurent Gbagbo. Réélu en 2015, Alassane Ouattara relance la croissance économique par une politique libérale et interventionniste tout en étant critiqué pour sa gestion de l'armée et de la justice.
+
+La Côte d’Ivoire est en voie de développement, son indice de développement humain de 0,474 en 2017 place le pays à la 182e position des pays selon son IDH. 
+<a href="https://fr.wikipedia.org/wiki/C%C3%B4te_d'Ivoire" target="blank" title="lien vers wikipedia" class="lien">Lire la suite...</a>
+</section>	
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+	
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+		<br/>
+		<br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/><h3>La Capitale de la Cote d'ivoire</h3>
+				 <div id="video1">
+      <video  src="../media/video/abidjan.mp4" controls width="600"></video>
+      <canvas ></canvas>
+      <canvas ></canvas>
+      </div>
+      <a href=""><img src="../media/images/fleche1.jpg" class="arrows" alt="suivant" id="fleche"/></a>
+<div id="barrenavigation">
+<span><a href="geographie.html" title="Géographie" class="arrows">&#8680;</a></span>
+</div>
+<br/><br/>
+<div id="baspage">
+	<footer id="baspag">
+		<nav id="univ-bourg"> 
+			<h5>Copyright &copy; Janvier 2020 -
+			<a href="http://www.u-bourgogne.fr/" target="_blank">Universit&eacute; de Bourgogne</a>-  Tous droits r&eacute;serv&eacute;s.
+			<br/><br/>
+			Pr&eacute;sent&eacute; par Ouattara Ismael Simeon Herve  Mathematique-Informatique-Electronique  L1</h5>
+		</nav>
+	</footer>	
+	</div>
+      </div>
+    
+    
+
+	</body>
+	</html>
+
+
+
+
+

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>Republique de Cote d'ivoire</title>
+	<meta name="Ouattara" content="Ismael simeon herve" />
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="../styles/geographie.css" /> 
+
+	<script type="text/javascript" src="../javascript/geographie.js"></script>
+</head>
+<body>
+
+
+     <div id="divf">
+ <div id="h1">
+<header>
+    Géographie
+<br/>
+<br/>
+<br/><a href="index.html" target="blank" title="lien vers sommaire" class="lien">Aller au sommaire principal</a>
+<br/>
+<br/>
+<br/>
+</header>
+ <div id="div2">
+ <aside>
+<nav id="nav1">
+
+	<strong>Sommaire</strong><br/><br/>
+	
+	<form method="POST" action="index.html">
+<input type="submit" name="Ok" value="Accueil"/>
+</form>
+	
+	
+<form method="POST" action="https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_C%C3%B4te_d%27Ivoire">
+<input type="submit" name="Ok" value="Demographie" />
+</form>
+
+
+			
+<form method="POST" action="https://www.climatsetvoyages.com/climat/cote-d-ivoire">
+<input type="submit" name="Ok" value="Climat" />
+</form>
+
+
+ <br><br/>
+		 
+		
+</nav>
+	    <img src="../media/images/ivoire2.jpg" alt="geographie"/>
+		<img src="../media/images/ivoire4.gif" alt="geographie"/>
+	   <img src="../media/images/ivoire1.jpg" alt="geographie"/>
+	   
+	  
+      
+	
+	</aside>
+</div>
+<section class="presentation">
+
+<h1>R&eacute;publique de Cote d'ivoire</h1>
+<article>
+ <h2>Géographie de la cote d'ivoire </h2>
+		 <p >Cote d'ivoire,pays d'Afrique de l'Ouest sur l'océan Atlantique.Sa capitale Abidjan.<br/>La Cote d'ivoire est limitée au nord-ouest par la Guinée-Bissau, au nord par le Sénégal, à l’est par le Mali, au sud-est<br/> par la Côte d’Ivoire et au sud, par le Liberia et la Sierra Leone. Le pays comprend les îles de Los, au large de Conakry.</p>
+
+         <h2>Carte et géographie de la Cote d'ivoire</h2>
+         <img src="../media/images/g7.jpg" alt="geographie"/>
+           <hr/>
+         <p>La Cote d'ivoire est divisée :</p>
+        
+            
+           <h3>Au Nord</h3>
+           <p>Le nord de la Côte d'Ivoire, frontalier du Mali et du Burkina Faso, est principalement constitué de vastes savanes et son climat est de type climat soudanais.<br/>Ses villes principales sont Korhogo, Ferkessédougou, Boundiali, Odienné et Tingréla.</p>
+        <br/><br/><br/><br/>
+          <hr/>
+          <h3>Au sud</h3>
+          <br/><br/><br/>
+          <img class="toto" src="../media/images/g4.jpg" alt="geographie"/>
+          
+          <p>La région du Bas-Sassandra se situe dans le sud-ouest de la Côte d'Ivoire.<br/>Sa préfecture est San-Pédro ; l'autre ville importante est Sassandra.<br/>Cette région abrite les plus belles plages du pays. Contrairement à l'est du pays et à Abidjan,<br/> la « barre » n'existe pas, fait unique dans le golfe de Guinée, ce qui autorise la baignade sans danger.<br/> 
+           La région du Haut-Sassandra se situe plus au nord et s'articule autour des villes de Gagnoa.
+          
+       <br/><br/><br/>
+        <hr/>
+         <h3>Est</h3>
+         <img src="../media/images/g5.jpg" class="image5" alt="geographie"/>
+         <p>L'est de la Côte d'Ivoire, frontalier du Ghana,<br/>comporte en particulier le Parc national de la Comoé où se sont réfugiés les troupeaux d'éléphants,<br/>Daloa et Issia. Elle constitue ce qu'on a coutume d'appeler la boucle du cacao.</p>
+         
+       <br/><br/><br/><br/>
+       <hr/>
+       <h3>L'Ouest</h3>
+       <img src="../media/images/g4.jpg" class="image4" alt="geographie"/>
+       <p>L'ouest de la Côte d'Ivoire, frontalier du Liberia et de la Guinée,<br/> comporte les plus hauts massifs montagneux du pays,<br/>notamment le Mont Tonkpi et le Mont Nimba,egalement les dents de man.</p>
+  <br/><br/><br/>
+</article>
+</section>
+<br/>
+<h3>Situation Géographique de la Cote d'ivoire</h3>
+         <div id="video1">
+      <video  src="../media/video/ivoire.mp4" controls ></video>
+      <canvas ></canvas>
+      <canvas ></canvas>
+</div>
+      <a href=""><img src="../media/images/fleche1.jpg" class="arrows" alt="suivant" id="fleche"/></a><br/><br/><br/><br/>
+      
+      
+<div id="barrenavigation">
+<span><a href="index.html" title="Presentation" class="arrows">&#8678;</a></span>
+<span><a href="culture.html" title="Culture" class="arrows">&#8680;</a></span>
+</div>
+<div id="baspage">
+	<footer id="baspag">
+		<nav id="univ-bourg"> 
+			<h5>Copyright &copy; Janvier 2020 -
+			<a href="http://www.u-bourgogne.fr/" target="_blank">Universit&eacute; de Bourgogne</a>-  Tous droits r&eacute;serv&eacute;s.
+			<br/><br/>
+			Pr&eacute;sent&eacute; par Ouattara Ismael Simeon Herve  Mathematique-Informatique-Electronique  L1</h5>
+		</nav>
+	</footer>	
+	</div>
+      </div>
+    </div>
+
+
+    
+
+	</body>
+	</html>
+	
+	

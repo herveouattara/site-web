@@ -1,0 +1,85 @@
+body{
+background-color: blue;
+}
+
+#iii {margin-left: 50px; }
+
+#divp{
+		background-color:white;
+		color:#000;
+text-shadow:0px 0px 0px #000;
+width:830px;
+height:1500px;
+margin-left: auto;
+margin-right: auto;
+
+text-align: center;
+padding:5px;
+border:1px solid #6d7673;
+
+border-radius:5px;
+
+}
+
+
+
+legend{
+	font-weight: bold;
+
+}
+fieldset{
+	 background-color: teal;
+	
+}
+
+#baspage{
+	background-color: gray;
+	font-size: 0.5cm;
+	color: white;
+    text-align: center;
+}
+
+.marge_form{
+background-color: #BBD2E1;    
+text-align: center;
+}
+
+.fond_sombre{
+background-color: #BBD2E1;
+padding-top:5px; 
+padding-bottom: 5px;
+}
+
+.label_marge{
+display: inline-block;
+width: 100px;
+margin-bottom: 8px;
+}
+
+#alertes ul li
+{
+list-style-type: none;
+background-color: #F1FDF1;
+padding: 8px;
+border-radius: 3px;
+border-radius: 3px;
+border-radius: 3px;
+border-radius: 3px;
+
+background-color: #C71585;
+padding: 8px;
+border-radius: 3px;
+border-radius: 3px;
+border-radius: 3px;
+border-radius: 3px;
+}
+.arrows{
+margin: 8px;
+text-align: center;
+text-decoration: none;
+border-radius: 90%;
+height: 120px;
+width: 120px;
+border:2px solid #00aced;
+color: #00aced;
+}

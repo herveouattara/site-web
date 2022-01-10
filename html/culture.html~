@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<title>Republique de Cote d'Ivoire</title>
+	<meta name="Ouattara" content="Ismael simeon herve" />
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="../styles/culture.css" /> 
+<script type="text/javascript" src="../javascript/culture.js"></script>
+
+</head>
+<body>
+
+<div id="divf">
+ <div id="h1">
+Cultures
+<br/>
+<br/>
+<br/>
+</div>
+<a href="index.html" target="blank" title="lien vers sommaire" class="lien">Aller au sommaire principal</a>
+<br/>
+<br/>
+ <div id="div2">
+ <aside>
+<nav id="nav1">
+
+	<strong>Sommaire</strong><br/>
+	
+	
+<form method="POST" action="index.html">
+<input type="submit" name="Ok" value="Accueil" >
+</form>
+	
+	
+<form method="POST" action="https://fr.wikipedia.org/wiki/Danses_de_C%C3%B4te_d%27Ivoire">
+<input type="submit" name="Ok" value="Danse" >
+</form>
+
+
+			
+<form method="POST" action="https://www.abidjanshow.com/nos-dossiers/les-legendes-de-la-musique-ivoirienne">
+<input type="submit" name="Ok" value="Music" >
+</form>
+
+<form method="POST" action="https://fr.wikipedia.org/wiki/B%C3%A9t%C3%A9s">
+<input type="submit" name="Ok" value="Peuple Bété" >
+</form>
+ <br><br/>
+      
+
+
+      
+      
+</nav>
+
+	<img src="../media/images/c1.jpg"  class="image1" alt="culture ivoirienne"/><br/><br/>
+	<img src="../media/images/c4.jpg" class="image2" alt="masque"/>
+	
+	
+</aside>	
+</div>
+
+    
+
+<div class="presentation">
+<section  class="pp">
+<h2>La Culture Ivoirienne
+</h2>
+<article>
+
+ La date de la première présence humaine en Côte d’Ivoire est difficile à évaluer car les ossements ne se conservent pas dans le climat humide du pays. Cependant, la présence de fragments d'armes et d'outillages très anciens (haches polies taillées dans des schistes, débris de cuisine et de pêche) découverts sur le territoire national est interprétée comme la possibilité de la présence d’hommes, en assez grand nombre, au paléolithique supérieur (-15 000 à -10 000 ans) ou au minimum, l’existence sur ce terroir, d’une culture néolithique. Les plus anciens habitants connus de la Côte d’Ivoire ont toutefois laissé des traces disséminées à travers tout le territoire. Les populations arrivées avant le XVIe siècle sont aujourd'hui des groupes minoritaires ayant plus ou moins bien conservé l'essentiel de leurs civilisations. Ce sont les Agoua et Ehotilé (Aboisso), Kotrowou (Fresco), Zéhiri (Grand-Lahou) et Ega ou Diès (Divo)37.
+
+Mais le pays est surtout une terre de refuge et de migration qui reçoit, en provenance de la zone du Sahel, entre le XIe siècle et le XVIe siècle, les Mandé forestiers (Dan, Gban et Kwéni) mais également aux XIVe siècle et XVe siècle, d’autres groupes venus du nord (Ligbi, Numu et quelques clans Malinké), ce qui provoque quelques déplacements limités de populations plus anciennement établies (Krou sur la côte avant le XVe siècle et Sénoufo). Les XVIe siècle et XVIIe siècle consacrent l’arrivée au nord de plusieurs clans Malinkés ou mandé-dioula (Kamagaté, Keita, Binate, Diomandé) et Sénoufo et au sud-est, des peuples en provenance de la basse vallée de la Volta (Efié, Essouma, Abouré, Alladian et Avikam). L’un de ces groupes akan (Abron) s’installe dans la région de Bondoukou à l’est du pays.
+
+Le XVIIIe siècle consacre les grandes migrations akan (Agni, Baoulé, Atié, Abbey, Ébriés, M'Batto, Abidji) dans le sud-est et le centre du pays ainsi que celle d’autres groupes malinkés (en provenance des rives de la Volta noire) et du sud des territoires actuels du Mali et du Burkina Faso39. Ces migrations sont causes de conflits entre les populations.
+<h2>La Moyenne :</h2> est majoritairement peuplée de Malinke(une langue generalement parle au nord du pays). Abidjan en est la Capitale economique et la plus peuplee.
+
+<h3>La langue :</h3>
+La langue officielle est <h4>le français</h4>, dans sa variante français de Côte d'Ivoire. Mais les Ivoiriens sont généralement multilingues. Les langues locales les plus parlées sont : dioula( langue mandingue) (70 %), sénoufo (langue gour), baoulé (langue akan), bété (langue krou/kru).
+
+    langues locales
+      <ul>
+        <li>Abé, Abidji, Abouré, Abron, Adioukrou, Agni, Alladian, Anufo, Attié, Avikam</li>
+        <li> Bambara, Baoulé, Bété, Cebaara</li>
+        <li>Dan, Degha, Dida, Dioula, Djimini</li>
+        <li>Gban, Godié, Gouro, Guéré, Koulango, Lobiri</li>
+        <li>Maninkakan de l'Est, Monan, Nafaanra, Néyo, Niarafolo, Nouchi, Nyabwa, Nzema (langue)</li>
+        <li>Sénoufa, Soninké, Syenara, Tchaman, Wan</li>
+      </ul>
+    argot : nouchi.
+    Écriture(s) : Syllabaire bété (de) de Frédéric Bruly Bouabré.
+    
+  Populations :
+Groupes ethniques en Côte d'Ivoire,Diverses autres diasporas, africaines, asiatiques, européenne<br>
+Quatre grands groupes ethniques peuplent la Côte d’Ivoire :
+
+<ul>
+    <li>les Mandé dans le Nord-Ouest (Malinkés, Dan, Gouro…)</li>
+    <li>les Voltaïques dans le Nord-Est (Sénoufo, Lobi, Koulango…)</li>
+    <li>les Krou dans le Sud-Ouest (Bété, Guéré, Dida…)</li>
+    <li>les Akan dans le Sud -Est (Baoulé, Agni, Abron, Attié…).</li>
+  </ul>
+    <br/>
+    La diaspora ivoirienne est importante :
+
+  <ul>
+    <li>Ivoiriens émigrés</li>
+    <li>Ivoiriens expatriés</li>
+    <li>Immigrants en Côte d'Ivoire</li>
+    <li>Expatriés en Côte d'Ivoire.</li>
+  </ul>
+    Religion(s):
+    
+Islam en Côte d'Ivoire (38,6 %), Hamallayya (Hammalisme), Ahmadisme, Qadiriyya, Tijaniyya,Christianisme (32,8 %)Catholicisme,Évangélisme, William Wadé Harris (Harrisme)Méthodiste,Irréligion (16,7 %),Animisme (11,9 %) ou davantage, dont Poro (rituel), Abonsam, Sandobele.
+  <br/>
+        Symboles:
+ <ul>  
+  <li>Armoiries de la Côte d'Ivoire</li>
+  <li>Drapeau de la Côte d'Ivoire</li>
+  <li>L'Abidjanaise, hymne national depuis 1960</li>
+  <li>Emblème animal national : l'éléphant</li>
+  <li>Ordre du Mérite ivoirien</li>
+  <li>Ordre national (Côte d'Ivoire)</li>
+  <li>Flamme de la paix (2007)      </li>
+  <li>7 août, fête de l'indépendance</li>
+ </ul>
+    Éducation en Côte d'Ivoire:
+  <ul>
+    <li>Lycée Blaise-Pascal (Abidjan)</li>
+    <li>Lycée international Jean-Mermoz</li>
+    <li>Cours Lamartine (Abidjan)</li>
+    <li>École française de San Pédro</li>
+    <li>International Christian Academy (Ivory Coast) (ICA, américain, baptiste)</li>
+    <li>Vavoua International School (WEC, évangéliste)</li>
+    <li>International Community School of Abidjan (ICSA, américain, anglophone)</li>
+  </ul>
+les masques :
+Les civilisations africaines, en particulier celle de la Côte d’Ivoire, ont toujours accordé la primauté à la fonction sur la forme. La beauté n’est jamais recherchée pour elle-même. Elle est atteinte lorsqu’il existe un accord fondamental entre la pensée religieuse et l’objet chargé de l’exprimer ou de la servir (ustensiles, statues, masques, etc.). Ce que les collectionneurs appellent « l’art africain », ce sont en fait des objets usuels ou culturels qui, désacralisés ou inutilisés aujourd’hui, sont vendus comme pièces de collections.
+La principale différence entre statue et masque réside dans le fait que la première reste immobile pendant les cérémonies, tandis que le second participe à toutes les phases du rite puisque attaché autour du visage d’un participant, souvent un initié, dont l’incognito est préservé. La statuaire en pays Baoulé (avec le siège Baoulé du chef) et Sénoufo (représentant le premier couple) est la plus célèbre. Les masques Dans, Baoulés, Gouro, Guérés, Bété… sont les plus côtés chez les connaisseurs. 
+</article>
+</section>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+</div>
+
+<br/> <a href=""><img src="../audio/images/fleche1.jpg" class="arrows" alt="suivant" id="fleche"/></a>
+
+<div id="barrenavigation">
+<span><a href="geographie.html" title="Geographie" class="arrows">&#8678;</a></span>
+<span><a href="formulaire.html" title="Formulaire" class="arrows">&#8680;</a></span>
+</div> 
+
+<div id="baspage">
+	<footer id="baspag">
+		<nav id="univ-bourg"> 
+        
+			<h5>Copyright &copy; Janvier 2020-
+			<a href="http://www.u-bourgogne.fr/" target="_blank">Universit&eacute; de Bourgogne</a>-  Tous droits r&eacute;serv&eacute;s.
+			<br/><br/>
+			Pr&eacute;sent&eacute; par Ouattara Ismael Simeon herve   Mathematique Informatique-Electronique  L1</h5>
+		</nav>
+	</footer>
+	</div>
+</div>
+
+</body>
+</html>
+
+

@@ -1,0 +1,91 @@
+.trNormal{
+border-collapse: collapse;	
+	
+	
+}
+
+#gauche{
+	float: left;	
+}
+
+body{
+	text-align: center;
+}
+
+table{
+border :2pt solid blue ; 
+margin-left :40%; 
+width : 250px;
+background-color: #fff;
+ } 
+ 
+
+td{  font-family: arial;
+	text-align: center;
+	font-size: 10pt;
+	border:solid 1px #999;
+	width: 10px;
+	height: 10px;
+} 
+	
+#title{
+	
+	color: #FFFFFF;
+background-color: #333333;
+text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+
+}
+
+table
+{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+th
+{
+	border: 2px solid black;
+	padding: 5px;
+}
+ 
+ #etude4{
+	 text-align: center;
+	 
+ }
+ 
+ #form{
+border: 1px solid blue;
+-moz-transform: rotate(23deg);
+-webkit-transform: rotate(23deg);
+-o-transform: rotate(23deg);
+-ms-transform: rotate(23deg);
+transform: rotate(23deg);
+ }
+ 
+ #form1{
+	 border: 1px solid blue;
+-moz-transform: rotate(322deg);
+-webkit-transform: rotate(322deg);
+-o-transform: rotate(322deg);
+-ms-transform: rotate(322deg);
+transform: rotate(322deg);}
+ 
+ .arrows{
+margin: 8px;
+text-align: center;
+text-decoration: none;
+border-radius: 90%;
+height: 120px;
+width: 120px;
+border:2px solid black;
+color: black;
+}
+
+#baspage{
+	background-color: gray;
+	font-size: 0.5cm;
+	color: white;
+
+border-radius:10px;
+
+}

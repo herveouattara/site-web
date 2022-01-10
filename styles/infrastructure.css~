@@ -1,0 +1,109 @@
+#body{
+	
+	text-align: center;
+	
+}
+
+#haut{
+	
+	background-color: grey;
+	border-radius: 5px;
+	font-size: 25px;
+}
+
+
+#bas{
+	
+	background-color: grey;
+	border-radius: 20px;
+}
+
+#nav1{
+float: left;
+width: 180px;
+background-color: red;
+border-radius: 20px;
+}
+
+section{
+background-color: yellow;
+
+}
+
+.box { 
+   display: inline-block;
+   background: red;
+   width: 100px;
+   height: 100px;
+   color: white;
+}
+
+#deux { 
+   position: relative; 
+   top: 20px; 
+   left: 20px; 
+}
+#quatre { 
+   position: relative; 
+   top: 20px; 
+   left: 20px; 
+}
+
+#bordure{
+ width: 500px;
+  margin: 0 auto;
+}
+
+p {
+  background-color: aqua;
+  border: 3px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
+
+span {
+  border: 1px solid black;
+  
+}
+
+.positioned {
+  position: absolute;
+  background: yellow;
+  left: 30px;
+
+}
+.presentation{
+ border:solid 3px;
+ font-family: arial;
+ margin-left: 330px;
+}
+
+h3{text-align: center;
+
+}
+
+
+a{
+	text-align: center;
+color: white;
+}
+ 
+ .arrows{
+margin: 8px;
+text-align: center;
+text-decoration: none;
+border-radius: 90%;
+height: 120px;
+width: 120px;
+border:2px solid black;
+color: black;
+}
+
+#baspage{
+	background-color: gray;
+	font-size: 0.5cm;
+	color: white;
+
+border-radius:10px;
+
+}

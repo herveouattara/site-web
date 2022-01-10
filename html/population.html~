@@ -1,0 +1,235 @@
+<!DOCTYPE html> 
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+ <head>
+ <meta name="Ouattara" content="Ismael SIMEON Herve" />
+	<meta charset="utf-8" />
+	
+
+ <title>population</title>
+<link rel="stylesheet" type="text/css" href="../styles/population.css" /> 
+ </head>
+
+
+<body>
+
+<strong>Sommaire</strong><br/>
+		
+	<form method="POST" action="index.html">
+<input type="submit" name="Ok" value="Accueil"/>
+</form>
+	
+	
+<form method="POST" action="https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_C%C3%B4te_d%27Ivoire">
+<input type="submit" name="Ok" value="Demographie ivoirienne" />
+</form>
+
+
+			
+<form method="POST" action="https://www.populationdata.net/pays/cote-divoire/">
+<input type="submit" name="Ok" value="Etude et evolution demographie" />
+</form>
+
+
+ <br><br/>
+ 	
+
+
+<br/>
+<br/>
+<a href="index.html" target="blank" title="lien vers sommaire" class="lien">Aller au sommaire principal</a>
+<br/>
+<br/>
+<div id="divp">
+
+<h1 id="title">La Population ivoirienne</h1>
+
+<dl>
+
+    <dt class="dt1">La Côte d'Ivoire est un pays jeune</dt>
+
+
+<dd>dont la moitié de la population a moins de 20 ans. C'est aussi un pays regroupant plus de 60 ethnies, que l'on peut regrouper en quatre groupes principaux : les Akan, les Krou, les Mandé et les Gour.
+La population de Côte d'Ivoire est jeune</dd>
+
+<dd>La Côte d'Ivoire compte environ 18 millions d'habitants, ce qui place le pays au 60ème rang mondial. Sa densité est de l'ordre de 56 hab/km2.
+
+Le taux de croissance de la population est d'environ 2% par an. A titre de comparaison, ce taux est généralement inférieur à 0,5 % dans les pays industrialisés, et compris entre 1,5 et 3 % dans les autres pays d'Afrique (sans dans le sud, où il est plus faible).</dd>
+
+<dd>la pyramide des agees</dd></dl><br/>
+
+<img src="../media/images/pyramide.png"  alt="pyramide"/><br/><br/><br/>
+
+<dl>
+<dt></dt>
+<dd>La moitié de la population a moins de 20 ans. C'est donc une population jeune, beaucoup plus que dans les pays européens, où la moitié de la population se trouve dans la tranche 0-40 ans.
+
+L'espérance de vie à la naissance est d'environ 49 ans en moyenne. On observe cependant une inégalité entre les sexes, comme dans la plupart des pays.<br/><br/>En effet, l'espérance de vie est d'environ 46 ans pour les hommes, et 51 ans pour les femmes (mais ces chiffres varient selon les sources). A titre de comparaison, l'espérance de vie se rapproche de 80 ans dans les pays industrialisés, et descend jusque vers 35 ou 40 ans dans certains autres pays d'Afrique.
+
+Presque la moitié de la population (45 %) vit en zone urbaine. La seule ville d'Abidjan, capitale économique du pays, compte environ 4 millions d'habitants, soit plus de 20 % de la population.
+
+(source : The world factbook, estimations 2007.</dd>
+</dl>
+<br/>
+
+
+<dl>
+<dt>La Côte d'Ivoire est un pays multi-ethnique</dt>
+
+<dd>La Côte d'Ivoire compte plus de 60 ethnies et constitue donc une véritable mosaïque ethnique. Une ethnie peut se définir comme une communauté partageant des caractéristiques physiques, des traditions, des croyances et une langue. Les membres d'une ethnie ont normalement des ancêtres communs.
+
+Beaucoup de ces ethnies semblent issues d'une migration et venir des trois horizons (nord, est et ouest). Elles sont originaires de foyers culturels très différents. La plupart de ces déplacements se sont accomplis au cours de la protohistoire (période intermédiaire entre la préhistoire et l'Antiquité). Mais de nombreuses caravanes sillonnaient encore le territoire en tous sens à l'époque précoloniale, d'après les récits des premiers voyageurs.
+
+La Côte d'Ivoire apparaît ainsi comme un creuset, vers lequel ont convergé des populations variées, généralement attirées par les richesses naturelles du pays (terres fertiles, gibier naguère abondant, etc.). Malgré cette diversité, le pays comporte une certaine unité de civilisation.
+
+Pour plus de clarté, on peut regrouper entre elles les ethnies ayant une origine géographique présumée identique et des langues apparentées. On distingue ainsi:</dd>
+
+ </dl>
+ 
+ 
+ <ul>
+    <li>les Akan, dans le sud-est,</li>
+    <li>les Krou, dans le sud-ouest,</li>
+    <li>les Mandé ou Mandingue, dans le nord-ouest,</li>
+    <li>les Gour ou Voltaïques, dans le nord-est.</li>
+ </ul>
+ 
+ 
+ 
+ <img src="../media/images/ethnie.png" class="image2" alt="ethnie"/>
+ 
+ <dl><dt></dt>
+ <dd>Le groupe Akan, implanté dans le sud-est, est l'ethnie la plus nombreuse et est principalement originaire du Ghana actuel. On distingue les Akan du centre (principalement Baoulé), les Akan frontaliers (Agni, Abron, etc.) et les Akan lagunaires (Aké ou Attiés, Abé ou Abbey, Adioukrou, Ebrié, Abouré, etc.).
+
+Les Krou (ou Magwé) occupent la partie sud-ouest du pays. Ils ont originaires du Libéria actuel et ont connu une forte mobilité géographique. On rassemble notamment dans ce groupe les Bété, les Guéré ou Wé, les Wobé, les Dida, etc.
+
+L'appellation Mandé, dans le nord-ouest, recoupe deux groupes différents, issus du Haut-Niger. Les Mandé du nord ou Mandingue comprennent les Malinké, les Dioula, les Bambara, les Mahou, etc. Les Mandé du sud réunissent les Yacouba ou Dan, les Gouro, les Gagou ou Gban etc.
+
+Le groupe Gour ou voltaïque, dans le nord-est, est probablement l'un des plus anciens peuples du pays.<br/><br/> Ces peuples sont venus de la Haute Volta, actuel Burkian Faso. Ce groupe comprend les Dénoufo, les Koulango, les Lobi, les Tagbana, etc.
+
+Mais cette classification reste simpliste. En effet, les ethnies peuvent présenter de fortes différences à l'intérieur d'un même groupe. De plus, certaines ethnies se sont mélangées ou existent en très petits noyaux. Un brassage de population important s'est également produit ces dernières décennies.
+
+La Côte d'Ivoire accueille également sur son sol un grand nombre d'étrangers, notamment des Burkinabés, des Ghanéens, des Libériens, des Européens, des Américains et des Syro-Libanais.
+</dd>
+
+
+</dl>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div id="form"> tableau</div><br/><strong>recapitulatif de la population</strong><br/><br/><div id="form1"> tableau</div><br/>
+
+<h4 id="etude4"> Etude de la population ivoirienne</h4><br/><br/>
+
+<table>
+
+<thead id="thead1">
+<tr class="trNormal" onmouseover="survolLigne(this);" onmouseout="finsurvolLigne(this);" onclick="selectionLigne(this);">
+<th >Années</th>
+<th>Recensements</th>
+<th>Critère 5000 habitants</th>
+<th>Ecarts</th>
+</tr>
+</thead>
+
+
+
+<tbody id="tbody1">
+<tr class="trNormal" onmouseover="survolLigne(this);" onmouseout="finsurvolLigne(this);" onclick="selectionLigne(this);">
+<td>1988</td>
+<td >39%</td>
+<td >48%</td>
+<td >9%</td>
+ </tr>
+
+
+<tr class="trNormal" onmouseover="survolLigne(this);" onmouseout="finsurvolLigne(this);" onclick="selectionLigne(this);">
+<td >1998</td>
+<td>43%</td>
+<td>55%</td>
+<td>12%</td>
+</tr>
+</tbody>
+
+<tfoot id="tfoot1">
+<tr class="trNormal" onmouseover="survolLigne(this)" onmouseout="finsurvolLigne(this)" onclick="selectionLigne(this)">
+<td class="trNormal" onmouseover="survolLigne(this);" onmouseout="finsurvolLigne(this);" onclick="selectionLigne(this);">1975</td>
+<td >32%</td>
+<td >35%</td>
+<td >3%</td>
+</tr>
+</tfoot>
+
+</table>
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <th>Années</th>
+            <th scope="col">1998-1999</th>
+            <th scope="col">2011-2012</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">ISF</th>
+            <td>5,2</td>
+            <td>5,0</td>
+        </tr>
+    </tbody>
+    <tfoot>
+
+        <tr>
+            <th scope="row">ISF en milieu urbain</th>
+            <td>4,00</td>
+            <td>3,70</td>
+        </tr>
+    </tfoot>
+</table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+ <a href=""><img src="../media/images/fleche1.jpg" class="arrows" alt="suivant" id="fleche"/></a>
+ <br/>
+ <br/>
+ <br/>
+ <div id="barrenavigation">
+<span><a href="formulaire.html" title="Formulaire" class="arrows">&#8678;</a></span>
+<span><a href="tourisme.html" title="Drapeau" class="arrows">&#8680;</a></span>
+</div>
+<br/>
+
+
+<div id="baspage">
+	<footer id="baspag">
+		<nav id="univ-bourg"> 
+        
+			<h5>Copyright &copy; Janvier 2020-
+			<a href="http://www.u-bourgogne.fr/" target="_blank">Universit&eacute; de Bourgogne</a>-  Tous droits r&eacute;serv&eacute;s.
+			<br/><br/>
+			Pr&eacute;sent&eacute; par Ouattara Ismael Simeon herve  - Mathematique Informatique-Electronique  L1</h5>
+		</nav>
+	</footer>
+	</div>
+</div>
+
+
+</body>
+</html>
+
